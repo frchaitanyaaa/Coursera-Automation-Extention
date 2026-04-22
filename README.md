@@ -2,7 +2,7 @@
 
 <img src="icons/icon128.png" alt="Coursera Marathon" width="96" height="96" />
 
-# Coursera Marathon Extension
+# Coursera Automation Extension
 
 **Blaze through Coursera courses at warp speed.**  
 Auto-completes lectures, skips non-video items, and marks your progress — all hands-free.
@@ -219,16 +219,8 @@ Building and maintaining this takes time. If you'd like to support continued dev
 
 ---
 
-## 📄 License
-
-MIT © [Rahul Chowdhury](https://github.com/Rahul-2314)
 
 ---
 
 <div align="center">
 
-Made with ☕ and zero patience for slow video players
-
-**[⬆ Back to top](#coursera-marathon-extension)**
-
-</div>
