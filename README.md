@@ -185,38 +185,8 @@ The extension runs entirely in the **page's MAIN world** — no background servi
 | Speed not changing | Some Coursera players resist overrides — try toggling Auto-play off and on |
 | Extension not visible | Make sure it's pinned (puzzle icon → pin it) |
 
-**Still stuck?** [Open an issue →](https://github.com/Rahul-2314/coursera-marathon-extension/issues)
-
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! If you have a feature idea or found a bug:
-
-1. **Fork** the repo
-2. Create a branch: `git checkout -b feat/your-feature`
-3. Make your changes
-4. **Open a PR** — describe what you changed and why
-
-For big changes, open an issue first to discuss.
-
----
-
-## ⭐ Show Your Support
-
-If this extension saved you hours of watching videos, a star goes a long way:
-
-[![Star on GitHub](https://img.shields.io/github/stars/Rahul-2314/coursera-marathon-extension?style=for-the-badge&logo=github&color=yellow)](https://github.com/Rahul-2314/coursera-marathon)
-
----
-
-## ☕ Buy Me a Coffee
-
-Building and maintaining this takes time. If you'd like to support continued development:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/chowdhuryre)
-
----
 
 
 ---
