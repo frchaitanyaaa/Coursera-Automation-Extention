@@ -12,8 +12,7 @@ Auto-completes lectures, skips non-video items, and marks your progress — all 
 [![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Rahul-2314/coursera-marathon-extension?style=flat-square&color=yellow)](https://github.com/Rahul-2314/coursera-marathon-extension/stargazers)
 
-[⚡ Install](#-installation) · [🏃 Features](#-features) · [🗺️ Roadmap](#%EF%B8%8F-roadmap) · [🙋 Support](#-support) · [☕ Donate](#-buy-me-a-coffee)
-
+[⚡ Install](#-installation) · [🏃 Features](#-features) · [🗺️ Roadmap](#%EF%B8%8F-roadmap)
 ---
 
 </div>
